@@ -1,88 +1,112 @@
-# Hi there 👋 I'm Geetha S.V - Java Full Stack Developer
+# Hi there 👋 I'm Geetha S.V - Java Full Stack Developer (Fresher)
 
 ## 🚀 About Me
-I'm a passionate **Java Full Stack Developer** dedicated to building scalable, high-performance web applications. With hands-on experience in full-stack development, I excel at designing and implementing end-to-end solutions using modern technologies.
+I'm a **recent graduate and aspiring Java Full Stack Developer** passionate about building scalable, high-performance web applications. With hands-on internship experience in full-stack development, I'm eager to apply my skills in a professional environment and contribute to innovative projects.
 
 **Location:** Chennai, Tamil Nadu, India 🇮🇳  
-**Current Focus:** Java Full Stack Development | Spring Boot | React  
+**Current Status:** Fresher actively seeking Java Full Stack Developer roles  
+**Key Focus:** Java | Spring Boot | React | MySQL  
 
 ---
 
-## 💻 Technical Expertise
+## 💻 Technical Skills
 
 ### Backend Development
-- **Languages:** Java, Spring Boot, REST APIs
-- **Frameworks:** Spring Data JPA, Microservices Architecture
-- **Databases:** MySQL, Database Design & Optimization
-- **Tools:** Maven, Git, JUnit, Spring Test
+- **Languages:** Java, Core Java, Object-Oriented Programming
+- **Frameworks & Libraries:** Spring Boot, Spring Data JPA, REST APIs
+- **Databases:** MySQL, SQL, Database Design
+- **Build Tools:** Maven
+- **Testing:** JUnit basics
 
 ### Frontend Development
 - **Frameworks:** React, Angular
-- **Technologies:** HTML5, CSS3, JavaScript
-- **State Management:** Redux (when applicable)
+- **Markup & Styling:** HTML5, CSS3
+- **Languages:** JavaScript
 
 ### Development Tools & Practices
 - **Version Control:** Git & GitHub
 - **API Testing:** Postman
-- **Build Tools:** Maven, Gradle
-- **Testing:** JUnit, Mockito
-- **Best Practices:** Clean Code, SOLID Principles
+- **IDE:** Eclipse IDE, VS Code
+- **Best Practices:** Clean Code Principles, SOLID Principles (foundational understanding)
 
 ---
 
-## 🎓 Certifications & Training
-- **Java Full Stack Development** - EduBridge Learning (Oct 2025)
+## 🎓 Education & Certifications
+
+### Education
+- **Bachelor of Engineering (B.E.) - Computer Science**
+  - University College of Engineering (BIT Campus), Anna University
+  - Duration: Nov 2021 - May 2025
+  - Focus: Full-stack development concepts and modern web technologies
+
+### Certifications & Training
+- **Java Full Stack Development Certification** - EduBridge Learning (Oct 2025)
 - **AWS Solutions Architecture Job Simulation** - Amazon Web Services (Nov 2025)
 - Multiple hands-on internships in full-stack web development
 
 ---
 
-## 📊 Featured Projects
+## 📊 Internship Experience
 
-### 1. **Chronic Kidney Disease Prediction Web App**
-- Developed a machine learning-based web application for predicting CKD
-- **Tech Stack:** Flask, Python, Random Forest, UCI Dataset
-- **Achievement:** 90% Model Accuracy with user-friendly interface
-- **Impact:** Provides real-time predictions for healthcare applications
+### Java Full Stack Developer Intern
+**EduBridge Learning** | Jun 2025 - Sep 2025 (4 months)  
+- Developed full-stack web applications with Java backend and React frontend
+- Implemented REST APIs and database operations using Spring Boot and MySQL
+- Collaborated with team members on debugging and feature development
+- Gained practical experience in CRUD operations and database design
 
-### 2. **Java Full Stack Applications**
-- Built feature-rich web applications with complete CRUD operations
-- Implemented secure REST APIs with proper authentication
-- Debugged and optimized complex systems
-- Collaborated with cross-functional teams
+### Web Developer Intern
+**CodeBind Technologies** | Jul 2024 - Aug 2024 (2 months) | Chennai, Tamil Nadu
+- Worked on frontend technologies: HTML5, CSS3, and basic JavaScript
+- Learned PHP and MySQL for backend development
+- Contributed to web design and user interface improvements
+- Gained foundational knowledge in web development lifecycle
 
 ---
 
-## 🌟 Key Skills & Competencies
+## 📚 Featured Project
+
+### Chronic Kidney Disease Prediction Web App
+- **Description:** Machine learning-based web application for predicting Chronic Kidney Disease
+- **Tech Stack:** Flask, Python, Random Forest, UCI Dataset, Data Analysis
+- **Key Achievement:** 90% Model Accuracy
+- **Features:** Real-time predictions with user-friendly interface
+- **Learning:** Data preprocessing, feature selection, exploratory data analysis, model evaluation
+
+---
+
+## 🌟 Key Competencies
 
 | Category | Skills |
 |----------|--------|
-| **Backend** | Java, Spring Boot, REST APIs, MySQL, Database Design |
+| **Languages** | Java, Python, JavaScript, SQL |
+| **Backend** | Spring Boot, REST APIs, MySQL |
 | **Frontend** | React, HTML5, CSS3, Angular |
-| **DevOps** | Git, Maven, Docker basics |
-| **Soft Skills** | Problem-solving, Team Collaboration, Debugging |
+| **Tools** | Git, Maven, Eclipse IDE, Postman |
+| **Soft Skills** | Problem-solving, Team Collaboration, Quick Learner |
 
 ---
 
 ## 📈 What I'm Currently Doing
 
-- 🔄 **Working on:** Advanced Java full-stack projects with microservices architecture
-- 📚 **Learning:** Deep diving into Spring Cloud, Docker, and Kubernetes
-- 🤝 **Open to:** Collaborations on Java/React projects and open-source contributions
-- 💡 **Interested in:** Building scalable web solutions and contributing to innovative tech
+- 🔄 **Seeking:** Entry-Level Java Full Stack Developer positions
+- 📚 **Learning:** Advanced Spring Boot concepts, Microservices basics, Docker fundamentals
+- 🤝 **Open to:** Internships, freelance projects, and collaborative opportunities
+- 💡 **Building:** Portfolio projects to showcase full-stack capabilities
 
 ---
 
-## 🎯 Career Goals
+## 💥 Career Aspirations
 
-- Secure an **Entry-Level Java Full Stack Developer** position
-- Contribute to impactful projects at leading tech companies
-- Master microservices architecture and cloud-native development
-- Build a strong portfolio of production-ready applications
+- Land my first role as a **Java Full Stack Developer** and make a meaningful impact
+- Continuously improve coding skills and adopt industry best practices
+- Contribute to real-world projects and grow professionally
+- Master microservices architecture and cloud technologies
+- Build a strong professional network in the tech community
 
 ---
 
-## 📞 Connect With Me
+## 📞 Get In Touch
 
 - 💼 **LinkedIn:** [Geetha S.V](https://linkedin.com/in/geetha-s-v)
 - 📧 **Email:** [geethasv23@gmail.com](mailto:geethasv23@gmail.com)
@@ -91,16 +115,17 @@ I'm a passionate **Java Full Stack Developer** dedicated to building scalable, h
 
 ---
 
-## 💡 Fun Facts
+## 🙋 Why Hire Me?
 
-- ⚡ I love solving complex problems with clean, maintainable code
-- 🎮 Always eager to learn new technologies and best practices
-- 🌱 Passionate about contributing to the developer community
-- 🚀 Driven by the goal of building innovative solutions
+- ⚡ **Quick Learner:** Successfully mastered multiple technologies through internships
+- 🚫 **Problem Solver:** Strong analytical and debugging skills
+- 🤝 **Team Player:** Comfortable collaborating with diverse teams
+- 🌱 **Passionate:** Genuinely excited about web development and continuous learning
+- 📐 **Dedicated:** Committed to delivering quality code and meeting deadlines
 
 ---
 
-**"Building tomorrow's web with Java and React today!" 🌐**
+**"Ready to start my professional journey in Java Full Stack Development!" 🚀**
 
 ---
 
